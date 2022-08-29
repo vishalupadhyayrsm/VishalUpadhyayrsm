@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Upadhyay</h1>
-<h3 align="center">I Project Researcher in Indian Institute of Technology Bombay</h3>
+<h3 align="center">I'm Project Researcher in Indian Institute of Technology Bombay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalupadhyayrsm&label=Profile%20views&color=0e75b6&style=flat" alt="vishalupadhyayrsm" /> </p>
 
