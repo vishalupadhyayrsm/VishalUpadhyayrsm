@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Data Science**
 
-- 👯 I’m looking to collaborate on **Python Project as well as JavaScript Project**
+- 👯 I’m looking to collaborate on **Any Python Project as well as JavaScript Project**
 
 - 💬 Ask me about **Python,Javascript,Php, Sql, Nosql,HTML5,CSS, BootStrap**
 
