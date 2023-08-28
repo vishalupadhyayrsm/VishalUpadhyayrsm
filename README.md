@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Upadhyay</h1>
 <h3 align="center"><marquee>I'm Project Researcher in Indian Institute of Technology Bombay</marquee></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalupadhyayrsm&label=Profile%20views&color=0e75b6&style=flat" alt="vishalupadhyayrsm" /> </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/@vishalrsm_12" target="blank"><img src="https://img.shields.io/twitter/follow/@vishalrsm_12?logo=twitter&style=for-the-badge" alt="@vishalrsm_12" /></a> </p>
