@@ -3,16 +3,15 @@
 
 
 
-
 <p align="left"> <a href="https://twitter.com/@vishalrsm_12" target="blank"><img src="https://img.shields.io/twitter/follow/@vishalrsm_12?logo=twitter&style=for-the-badge" alt="@vishalrsm_12" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Data Science**
+- 🔭 I’m currently working on **ReactJs, NodeJs, PHP, Machine Learning and Data Science**
 
-- 👯 I’m looking to collaborate on **Any Python Project as well as JavaScript Project**
+- 👯 I’m ready to collaborate on  **Any JavaScript, ReactJs, NodeJs, Python, PHP, Digital Twin **
 
-- 💬 Ask me about **Python,Javascript,Php, Sql, Nosql,HTML5,CSS, BootStrap**
+- 💬 Ask me about **Javascript, ReactJs, NodeJs, PHP, Python, Digital Twin Sql, Nosql, HTML5, CSS, BootStrap, Sass, Tailwind**
 
-- 📫 How to reach me **Vishalm.rsm@gmail.com**
+- 📫 Write to me  **Vishalm.rsm@gmail.com**
   
 -  Portfolio  <a href="https://vishalupadhyay.in" target="blank">vishalkumarupadhyay</a>
 
