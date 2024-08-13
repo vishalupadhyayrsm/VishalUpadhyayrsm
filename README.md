@@ -4,9 +4,9 @@
   <tr>
     <!-- Text Section -->
     <td>
-      - 📫 Write to me **[Vishalm.rsm@gmail.com](mailto:Vishalm.rsm@gmail.com)** <br/>
-      - Portfolio  => Vishal Kumar Upadhyay <br/>
-      - ⚡ Fun fact => **No Bio It's Still Being Compiled**
+      - 📫 Write to me => ** Vishalm.rsm@gmail.com ** <br/>
+      - Portfolio  => ** Vishal Kumar Upadhyay ** <br/>
+      - ⚡ Fun fact => ** No Bio It's Still Being Compiled **
     </td>
     <!-- Image Section -->
     <td>
