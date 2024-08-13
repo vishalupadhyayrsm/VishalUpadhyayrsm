@@ -5,7 +5,7 @@
     <!-- Text Section -->
     <td>
       - 📫 Write to me **[Vishalm.rsm@gmail.com](mailto:Vishalm.rsm@gmail.com)** <br/>
-      - Portfolio **[vishalkumarupadhyay](https://vishalupadhyay.in)** <br/>
+      - Portfolio  => Vishal Kumar Upadhyay <br/>
       - ⚡ Fun fact => **No Bio It's Still Being Compiled**
     </td>
     <!-- Image Section -->
