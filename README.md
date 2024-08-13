@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Upadhyay</h1>
 <h3 align="center"><marquee>I'm Project Researcher in Indian Institute of Technology Bombay</marquee></h3>
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<table>
+  <tr>
     <!-- Text Section -->
-    <p>📫 Write to me <strong>Vishalm.rsm@gmail.com</strong></p>
-    <p>Portfolio <a href="https://vishalupadhyay.in" target="_blank">vishalkumarupadhyay</a></p>
-    <p>⚡ Fun fact => <strong>No Bio It's Still Being Compiled</strong></p>
-  </div>
-  <div style="flex: 1; text-align: right;">
+    <td>
+      - 📫 Write to me **[Vishalm.rsm@gmail.com](mailto:Vishalm.rsm@gmail.com)** <br/>
+      - Portfolio **[vishalkumarupadhyay](https://vishalupadhyay.in)** <br/>
+      - ⚡ Fun fact => **No Bio It's Still Being Compiled**
+    </td>
     <!-- Image Section -->
-    <img src="https://vishalupadhyay.in/vishal.png" alt="vishal" width="200" height="200" />
-  </div>
-</div>
+    <td>
+      <img src="https://vishalupadhyay.in/vishal.png" alt="vishal" width="200" height="200" />
+    </td>
+  </tr>
+</table>
 
-- 📫 Write to me  **Vishalm.rsm@gmail.com** <img src="https://vishalupadhyay.in/vishal.png" alt="seaborn" width="200" height="200" /> 
-  
--  Portfolio  <a href="https://vishalupadhyay.in" target="blank">vishalkumarupadhyay</a>
 
-- ⚡ Fun fact => **No Bio It's Still Being Compiled**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
