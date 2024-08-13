@@ -8,7 +8,7 @@
 - ⚡ Fun fact => **No Bio It's Still Being Compiled**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="" target="_blank" rel="noreferrer" align="left"> <img src="https://vishalupadhyay.in/vishal.png" alt="seaborn" width="40" height="40" /> </a>
 <a href="https://linkedin.com/in/vishal-upadhyay-7bba17123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-upadhyay-7bba17123" height="30" width="40" /></a>
 <a href="https://kaggle.com/vishalrsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalrsm" height="30" width="40" /></a>
 </p>
