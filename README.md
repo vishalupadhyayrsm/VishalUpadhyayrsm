@@ -10,7 +10,7 @@
     </td>
     <!-- Image Section -->
     <td>
-      <img src="https://vishalupadhyay.in/vishal.png" alt="vishal" width="200" height="200" />
+      <img src="[https://vishalupadhyay.in/vishal.png](https://vishalupadhyay.in/vishal.png)" alt="vishal" width="200" height="200" />
     </td>
   </tr>
 </table>
