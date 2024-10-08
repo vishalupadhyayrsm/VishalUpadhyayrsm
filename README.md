@@ -51,7 +51,6 @@ flowchart TD
 
 <br><br><br>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/> 
