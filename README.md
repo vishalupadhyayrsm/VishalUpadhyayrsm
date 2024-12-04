@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishal-upadhyay-7bba17123" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-upadhyay-7bba17123" height="30" width="40" />
@@ -20,36 +20,31 @@
 </a>
 </p>
 
-<h3 align="center">Language and Tools:</h3><br><br>
+<h3 align="left" >Languages and Tools :</h3>
 
-```mermaid
-flowchart TD
-    A[Frontend] --> B[HTML]
-    A --> C[CSS]
-    A --> D[Bootstrap]
-    A --> E[JavaScript]
-    A --> F[React]
-    A --> G[React Native]
-
-    H[Backend] --> I[Node.js]
-    H --> J[Java]
-
-    J[Java] --> K[JDBC]
-    J --> L[Spring Boot]
-
-    M[API] --> N[Rest API]
-    M --> O[Microservices]
-    M --> P[GraphQL]
-    M --> Q[SOAP]
-
-    R[Tools] --> S[VS Code]
-    R --> T[IntelliJ IDEA]
-    R --> U[Postman]
-    R --> V[Git]
-
-```
-
-<br><br><br>
+<table>
+  <tr>
+    <th style="color: Red;">Category</th>
+    <th style="color: red;">Technologies and Tools</th>
+  </tr>
+  <tr>
+    <td style="color: white;">Frontend</td>
+    <td style="color: white;">HTML, CSS, Bootstrap, JavaScript, React, React Native</td>
+  </tr>
+  <tr>
+    <td style="color: white;">Backend</td>
+    <td style="color: white;">Node.js, Java, JDBC, Spring Boot</td>
+  </tr>
+  <tr>
+    <td style="color: white;">API</td>
+    <td style="color: white;">REST API, Microservices, GraphQL, SOAP</td>
+  </tr>
+  <tr>
+    <td style="color: white;">Tools</td>
+    <td style="color: white;">VS Code, IntelliJ IDEA, Postman, Git</td>
+  </tr>
+</table>
+<br><br>
 
 <p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
@@ -64,11 +59,11 @@ flowchart TD
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalupadhyayrsm&show_icons=true&locale=en&layout=compact" alt="vishalupadhyayrsm" />
-</p>
-<p>&nbsp;
+</p> 
+<!-- <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalupadhyayrsm&show_icons=true&locale=en" alt="vishalupadhyayrsm" />
-</p>
-<p>
+</p> -->
+<p> &nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalupadhyayrsm&" alt="vishalupadhyayrsm" />
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalupadhyayrsm&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
