@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Upadhyay</h1>
-<h3 align="center"><marquee>I'm Project Researcher in Indian Institute of Technology Bombay</marquee></h3>
+<h3 align="center"><marquee>I'm Project Researcher at Indian Institute of Technology Bombay</marquee></h3>
 <table>
   <tr>
     <!-- Text Section -->
