@@ -1,88 +1,146 @@
+<!-- INTRO SECTION -->
 <h1 align="center">Hi 👋, I'm Vishal Kumar Upadhyay</h1>
-<!-- <h3 align="center"><marquee>I'm Project Researcher at Indian Institute of Technology Bombay</marquee></h3> -->
+<h3 align="center">🚀 Full Stack Developer | 💻 Researcher | 📊 Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishalupadhyayrsm&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <a href="https://github.com/vishalupadhyayrsm?tab=followers">
+    <img src="https://img.shields.io/github/followers/vishalupadhyayrsm?label=Followers&style=social" alt="followers-count">
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🔭 Currently working on **Full Stack Development** and **Backend Projects**
+- 🌱 Learning advanced **Java** & **Microservices**
+- 📨 Reach me at **Vishalm.rsm@gmail.com**
+- ⚡ Fun fact: *No bio… It’s still being compiled 🧠💻*
+
+---
+
+## 🌟 Support My Work
+
+If you like my projects, consider giving my repositories a **⭐ Star** to support and motivate me!
+
+<p align="center">
+  <a href="https://github.com/vishalupadhyayrsm">
+    <img src="https://img.shields.io/badge/⭐-Star%20My%20Repos-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/vishal-upadhyay-7bba17123" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/vishalrsm" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:Vishalm.rsm@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
 <table>
   <tr>
-    <!-- Text Section -->
+    <th>Category</th>
+    <th>Technologies & Tools</th>
+  </tr>
+  <tr>
+    <td><b>🌐 Frontend</b></td>
     <td>
-      Write to me => Vishalm.rsm@gmail.com <br/>
-      Fun fact => No Bio...  It's Still Being Compiled 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/> HTML &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/> CSS &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="25"/> Bootstrap &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> JavaScript &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25"/> React &nbsp;
+      <img src="https://reactnative.dev/img/header_logo.svg" width="25"/> React Native
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧠 Backend</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/> Node.js &nbsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="25"/> Java &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="25"/> Spring Boot &nbsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/jdbc.svg" width="25"/> JDBC
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔗 APIs</b></td>
+    <td>
+      <img src="https://img.icons8.com/external-outline-juicy-fish/60/external-api-coding-and-development-outline-outline-juicy-fish.png" width="25"/> REST API &nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="25"/> GraphQL &nbsp;
+      <img src="https://img.icons8.com/ios/50/soap.png" width="25"/> SOAP &nbsp;
+      <img src="https://img.icons8.com/ios-filled/50/microservices.png" width="25"/> Microservices
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25"/> VS Code &nbsp;
+      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="25"/> IntelliJ IDEA &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/> Postman &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25"/> Git &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="25"/> Docker
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> MySQL &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25"/> MongoDB &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="25"/> Nginx
+    </td>
+  </tr>
+  <tr>
+    <td><b>📊 Data & ML</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> Python &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="25"/> Pandas &nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"/> Scikit-Learn &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="25"/> TensorFlow &nbsp;
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="25"/> Seaborn
     </td>
   </tr>
 </table>
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishal-upadhyay-7bba17123" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-upadhyay-7bba17123" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/vishalrsm" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalrsm" height="30" width="40" />
-</a>
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalupadhyayrsm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
-<h3 align="left" >Languages and Tools :</h3>
-
-<table>
-  <tr>
-    <th style="color: Red;">Category</th>
-    <th style="color: red;">Technologies and Tools</th>
-  </tr>
-  <tr>
-    <td style="color: white;">Frontend</td>
-    <td style="color: white;">HTML, CSS, Bootstrap, JavaScript, React, React Native</td>
-  </tr>
-  <tr>
-    <td style="color: white;">Backend</td>
-    <td style="color: white;">Node.js, Java, JDBC, Spring Boot</td>
-  </tr>
-  <tr>
-    <td style="color: white;">API</td>
-    <td style="color: white;">REST API, Microservices, GraphQL, SOAP</td>
-  </tr>
-  <tr>
-    <td style="color: white;">Tools</td>
-    <td style="color: white;">VS Code, IntelliJ IDEA, Postman, Git</td>
-  </tr>
-</table>
-<br><br>
-
-<p align="left">
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/> 
-</a> &nbsp;
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-</a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp; 
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
- </a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp; 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp; 
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>&nbsp; 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>&nbsp; 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>&nbsp; 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&nbsp;
-     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
-       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&nbsp; 
-        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>&nbsp; 
-        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalupadhyayrsm&show_icons=true&locale=en&layout=compact" alt="vishalupadhyayrsm" />
-</p> 
-<!-- <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalupadhyayrsm&show_icons=true&locale=en" alt="vishalupadhyayrsm" />
-</p> -->
-<p> &nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalupadhyayrsm&" alt="vishalupadhyayrsm" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalupadhyayrsm&theme=tokyonight" alt="streak-stats" />
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalupadhyayrsm&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-```
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalupadhyayrsm&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalupadhyayrsm&radius=16&theme=react-dark&area=true" height="300" alt="activity-graph" />
+</p>
+
+---
+
+## ✨ Fun Extras
+- 🧠 **Quote I follow**: *“Code. Learn. Repeat.”*  
+- 🐧 Using **Linux + Open Source Tools** daily  
+- 🌱 Exploring **AI/ML & System Design**
+
+---
+
+<p align="center"> 
+  💡 *“A good developer never stops learning.”*  
+</p>
