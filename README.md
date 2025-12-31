@@ -114,23 +114,6 @@ If you like my projects, consider giving my repositories a **⭐ Star** to suppo
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalupadhyayrsm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalupadhyayrsm&theme=tokyonight" alt="streak-stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalupadhyayrsm&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalupadhyayrsm&radius=16&theme=react-dark&area=true" height="300" alt="activity-graph" />
-</p>
 
 ---
 
