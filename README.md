@@ -1,129 +1,76 @@
-<!-- INTRO SECTION -->
-<h1 align="center">Hi 👋, I'm Vishal Kumar Upadhyay</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 Researcher | 📊 Tech Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalupadhyayrsm&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-  <a href="https://github.com/vishalupadhyayrsm?tab=followers">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vishalupadhyayrsm.vishalupadhyayrsm)
+<a href="https://github.com/vishalupadhyayrsm?tab=followers">
     <img src="https://img.shields.io/github/followers/vishalupadhyayrsm?label=Followers&style=social" alt="followers-count">
-  </a>
-</p>
+</a>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&lines=Welcome+to+My+GitHub;Full+Stack+Developer;AI+Engineer;Building+Digital+Twins;Industrial+Automation+Solutions)](https://git.io/typing-svg)
+
+
+# Vishal Kumar Upadhyay 
+### Full Stack Developer | AI Engineer | Industrial Automation
+
+I am a **Full Stack Developer** with hands-on experience in building modern, scalable web applications, working across both frontend and backend technologies to deliver complete end-to-end solutions. Alongside web development, I have practical experience in Artificial Intelligence, where I build intelligent systems to solve real-world problems, and I actively work on developing Digital Twins to create virtual replicas of physical systems for simulation, monitoring, and optimization. I also have experience in Industrial Automation, focusing on integrating software with hardware to improve efficiency, control, and reliability, and I am passionate about combining software engineering with emerging technologies to build smart, connected solutions.
+
+---
+### ✨ Key Projects
+* **ICAMC Platform:** Designed and developed a complete web platform for managing and presenting conference-related content, ensuring a scalable and user-friendly experience.
+* **Digital Twin – Sinter Plant:** Built a digital twin system for a sinter plant to simulate operations, monitor performance, and optimize industrial processes in real time.
+* **Digital Twin for DIP:** Developed a digital twin solution for the DIP to enable better visualization, control, and efficiency in industrial workflows.
+* **In-Depth Articles:** Created comprehensive and well-researched content on a wide range of technical topics.
+
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently working on **Full Stack Development** and **Backend Projects**
-- 🌱 Learning advanced **Java** & **Microservices**
-- 📨 Reach me at **Vishalm.rsm@gmail.com**
-- ⚡ Fun fact: *No bio… It’s still being compiled 🧠💻*
+### 🛠️ Technical Stack & Core Expertise
+
+We specialize in and provide content on the following areas, from foundational concepts to advanced applications.
+
+| Category | Description | Badges |
+| :--- | :--- | :--- |
+| **Web Development** | Core front-end development, from basic to advanced concepts. | ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **AI / ML** | Guides on algorithms, models, and practical applications. | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **IoT** | Hands-on tutorials for building and programming smart devices. | ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![](https://img.shields.io/badge/PlatformIO-F58025?style=for-the-badge&logo=platformio&logoColor=white) ![](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white) |
+| **Robotics** | Principles, projects, and control systems for robotics and data science. | ![](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) ![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/RTOS-blue?style=for-the-badge&logo=realtime&logoColor=white) |
+
 
 ---
 
-## 🌟 Support My Work
+### 🤝 Getting Involved & Contributing
 
-If you like my projects, consider giving my repositories a **⭐ Star** to support and motivate me!
+I’m always open to collaboration and connecting with fellow developers. If you have ideas, interesting projects, or need technical guidance, feel free to reach out.
+
+1.  **For Project Help:** If you’d like to discuss a project, need help, or want to collaborate, you can connect with me via email or social platforms.
+2.  **For Code Contributions:** If you’d like to contribute to any of my repositories, feel free to fork the repo, raise issues, or submit pull requests. I appreciate improvements, bug fixes, and new ideas.
+
+---
+
+
+### 📞 Contact
+
+For any questions, suggestions, or support, feel free to reach out.
+
+* **Email:** `vishalm.rsm@gmail.com`
+* **LinkedIn:** [Vishal Kumar Upadhyay ](https://www.linkedin.com/in/vishal-upadhyay-7bba17123/)
+
+---
+
+
 
 <p align="center">
-  <a href="https://github.com/vishalupadhyayrsm">
-    <img src="https://img.shields.io/badge/⭐-Star%20My%20Repos-blue?style=for-the-badge"/>
-  </a>
+  ⭐️ &nbsp; Star this repo to show your support! &nbsp; ⭐️
 </p>
 
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/vishal-upadhyay-7bba17123" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://kaggle.com/vishalrsm" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="mailto:Vishalm.rsm@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🧰 Languages & Tools
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technologies & Tools</th>
-  </tr>
-  <tr>
-    <td><b>🌐 Frontend</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/> HTML &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/> CSS &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="25"/> Bootstrap &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> JavaScript &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25"/> React &nbsp;
-      <img src="https://reactnative.dev/img/header_logo.svg" width="25"/> React Native
-    </td>
-  </tr>
-  <tr>
-    <td><b>🧠 Backend</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/> Node.js &nbsp;
-      <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="25"/> Java &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="25"/> Spring Boot &nbsp;
-      <img src="https://cdn.worldvectorlogo.com/logos/jdbc.svg" width="25"/> JDBC
-    </td>
-  </tr>
-  <tr>
-    <td><b>🔗 APIs</b></td>
-    <td>
-      <img src="https://img.icons8.com/external-outline-juicy-fish/60/external-api-coding-and-development-outline-outline-juicy-fish.png" width="25"/> REST API &nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="25"/> GraphQL &nbsp;
-      <img src="https://img.icons8.com/ios/50/soap.png" width="25"/> SOAP &nbsp;
-      <img src="https://img.icons8.com/ios-filled/50/microservices.png" width="25"/> Microservices
-    </td>
-  </tr>
-  <tr>
-    <td><b>🧰 Tools</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25"/> VS Code &nbsp;
-      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="25"/> IntelliJ IDEA &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/> Postman &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25"/> Git &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="25"/> Docker
-    </td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Database</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> MySQL &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25"/> MongoDB &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="25"/> Nginx
-    </td>
-  </tr>
-  <tr>
-    <td><b>📊 Data & ML</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> Python &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="25"/> Pandas &nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"/> Scikit-Learn &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="25"/> TensorFlow &nbsp;
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="25"/> Seaborn
-    </td>
-  </tr>
-</table>
-
----
 
 
----
 
-## ✨ Fun Extras
-- 🧠 **Quote I follow**: *“Code. Learn. Repeat.”*  
-- 🐧 Using **Linux + Open Source Tools** daily  
-- 🌱 Exploring **AI/ML & System Design**
 
----
 
-<p align="center"> 
-  💡 *“A good developer never stops learning.”*  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalupadhyayrsm&theme=react-dark)
+
+
+
+### 📈 My GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalupadhyayrsm&theme=radical" alt="Streak" />
 </p>
