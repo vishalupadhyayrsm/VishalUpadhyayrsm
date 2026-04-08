@@ -62,15 +62,3 @@ For any questions, suggestions, collab or support, feel free to reach out.
 </p>
 
 
-
-
-
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalupadhyayrsm&theme=react-dark)
-
-
-
-### 📈 My GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalupadhyayrsm&theme=radical" alt="Streak" />
-</p>
