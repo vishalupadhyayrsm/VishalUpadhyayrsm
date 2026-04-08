@@ -48,7 +48,7 @@ I’m always open to collaboration and connecting with fellow developers. If you
 
 ### 📞 Contact
 
-For any questions, suggestions, or support, feel free to reach out.
+For any questions, suggestions, collab or support, feel free to reach out.
 
 * **Email:** `vishalm.rsm@gmail.com`
 * **LinkedIn:** [Vishal Kumar Upadhyay ](https://www.linkedin.com/in/vishal-upadhyay-7bba17123/)
