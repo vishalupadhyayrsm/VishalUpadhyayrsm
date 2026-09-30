@@ -65,7 +65,6 @@ For any questions, suggestions, collab or support, feel free to reach out.
 
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalupadhyayrsm&theme=react-dark)
 
 
 
